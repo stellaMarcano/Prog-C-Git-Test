@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("Hola. Món!\n")
+	printf("Editat des de Local\n")
 		return 0;
 }
